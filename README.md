@@ -3,6 +3,7 @@ Bayleef's project for UniHack 2019, an app that finds you the closest and least 
 
 ### Tech stack
 Using chalice aws framework to host API with AWS Services including Lambda, API Gateway
+
 Swift is used to write the app, Alamofire framework calls the API with latitude and longitude, returning a JSON with study/work space information
 
 #### API information
